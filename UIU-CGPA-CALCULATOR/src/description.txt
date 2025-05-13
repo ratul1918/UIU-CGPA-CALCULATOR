@@ -1,0 +1,16 @@
+Calculator App – Key Features:
+
+Basic Arithmetic Operations:
+Perform addition, subtraction, multiplication, and division easily.
+User-Friendly Interface:
+Clean and intuitive layout for smooth user experience.
+Instant Results:
+Calculates and displays results immediately after input.
+Responsive Design:
+Works seamlessly on different screen sizes and devices.
+Error Handling:
+Displays clear messages for invalid inputs or divide-by-zero errors.
+Lightweight & Fast:
+Minimal load time with efficient performance.
+Great for Everyday Use:
+Suitable for students, professionals, and anyone needing quick calculations.
