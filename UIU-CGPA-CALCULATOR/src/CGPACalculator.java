@@ -160,7 +160,7 @@ public class CGPACalculator {
         // Calculate GPA for the new courses
         double newGPA = (newCredits > 0) ? (totalPoints / newCredits) : 0;
 
-        // Combine old and new results to calculate overall CGPA
+        // Combine old and new results to calculate overall CGPA.
         double totalCredits = oldCredits + newCredits;
         double overallCGPA = (totalCredits > 0)
             ? ((oldCredits * oldCGPA) + (newCredits * newGPA)) / totalCredits
@@ -193,7 +193,7 @@ public class CGPACalculator {
         coursesPanel.revalidate();
     }
 
-    // Safely parse string to double, return 0 if invalid input
+    // Safely parse string to double, return 0 if invalid input.
     private double parseDouble(String text) {
         try {
             return Double.parseDouble(text.trim());
@@ -204,7 +204,7 @@ public class CGPACalculator {
 
     // Main method to run the program
     public static void main(String[] args) {
-        // Launch GUI in the Event Dispatch Thread (safe GUI practice)
+        // Launch GUI in the Event Dispatch Thread (safe GUI practice).
         SwingUtilities.invokeLater(CGPACalculator::new);
     }
 }
