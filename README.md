@@ -10,11 +10,6 @@ A simple and user-friendly **CGPA Calculator** built using **Flutter** for stude
 - ✅ Clear/reset input fields
 - ✅ Simple and intuitive UI
 
-## 📱 Screenshots
-
-<!-- Add screenshots here if available -->
-<!-- ![Screenshot1](screens/screen1.png) -->
-<!-- ![Screenshot2](screens/screen2.png) -->
 
 ## 🏫 Grading System Used
 
