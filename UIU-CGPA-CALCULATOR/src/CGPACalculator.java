@@ -189,7 +189,7 @@ public class CGPACalculator {
         addCourseRow();
         addCourseRow();
 
-        // Refresh layout
+        // Refresh layout..
         coursesPanel.revalidate();
     }
 
