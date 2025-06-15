@@ -1,9 +1,9 @@
-// Import necessary packages
-import javax.swing.*; // For GUI components like JFrame, JButton, etc.
-import java.awt.*; // For layout managers and basic GUI tools
-import java.awt.event.*; // For handling events like button clicks
-import java.util.ArrayList; // For dynamic arrays
-import java.util.HashMap; // For key-value pairs to store grade points
+// Import necessary packages..
+import javax.swing.*; // For GUI components like JFrame, JButton, etc..
+import java.awt.*; // For layout managers and basic GUI tools..
+import java.awt.event.*; // For handling events like button clicks..
+import java.util.ArrayList; // For dynamic arrays..
+import java.util.HashMap; // For key-value pairs to store grade points..
 
 public class CGPACalculator {
     // Declare GUI components and data structures
