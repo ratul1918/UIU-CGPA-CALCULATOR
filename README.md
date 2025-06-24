@@ -32,4 +32,3 @@ The calculator uses UIU’s official grading policy:
 ## 🔢 How CGPA is Calculated
 
 The CGPA is calculated using the formula:
-
