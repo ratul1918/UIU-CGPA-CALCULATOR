@@ -6,7 +6,7 @@ import java.util.ArrayList; // For dynamic arrays..
 import java.util.HashMap; // For key-value pairs to store grade points..
 
 public class CGPACalculator {
-    // Declare GUI components and data structures
+    // Declare GUI components and data structures..
     private JFrame frame;
     private JButton addCourseButton, addRetakeButton, calculateButton, resetButton;
     private JTextField completedCreditsField, currentCGPAField;
@@ -18,12 +18,12 @@ public class CGPACalculator {
     private ArrayList<JComboBox<String>> oldGradeDropdowns = new ArrayList<>();
     private ArrayList<JComboBox<String>> newGradeDropdowns = new ArrayList<>();
 
-    private JPanel coursesPanel; // Panel to hold course input rows
+    private JPanel coursesPanel; // Panel to hold course input rows..
 
-    // Static map of grades and their corresponding grade points
+    // Static map of grades and their corresponding grade points..
     private static final HashMap<String, Double> gradePoints = new HashMap<>();
 
-    // Initialize grade points
+    // Initialize grade points..
     static {
         gradePoints.put("A", 4.00);
         gradePoints.put("A-", 3.67);
