@@ -28,7 +28,3 @@ The calculator uses UIU’s official grading policy:
 | F     | 0.00        |
 
 > 💡 You can customize the grading scale if your department follows a different policy.
-
-## 🔢 How CGPA is Calculated
-
-The CGPA is calculated using the formula:
