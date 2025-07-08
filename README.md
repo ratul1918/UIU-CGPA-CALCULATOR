@@ -27,4 +27,3 @@ The calculator uses UIU’s official grading policy:
 | D     | 1.00        |
 | F     | 0.00        |
 
-> 💡 You can customize the grading scale if your department follows a different policy.
