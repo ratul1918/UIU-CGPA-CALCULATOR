@@ -202,7 +202,7 @@ public class CGPACalculator {
         }
     }
 
-    // Main method to run the program
+    // Main method to run the program.
     public static void main(String[] args) {
         // Launch GUI in the Event Dispatch Thread (safe GUI practice).
         SwingUtilities.invokeLater(CGPACalculator::new);
