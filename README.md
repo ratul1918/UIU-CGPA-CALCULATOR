@@ -1,4 +1,4 @@
-# 📊 CGPA Calculator - United International University (UIU)..
+# 📊 CGPA Calculator - United International University (UIU).
 
 A simple and user-friendly **CGPA Calculator** built using **Flutter** for students of **United International University (UIU)**. This app helps students to calculate their current CGPA and plan their academic progress effectively.
 
