@@ -6,7 +6,7 @@ import java.util.ArrayList; // For dynamic arrays.
 import java.util.HashMap; // For key-value pairs to store grade points..
 
 public class CGPACalculator {
-    // Declare GUI components and data structures..
+    // Declare GUI components and data structures.
     private JFrame frame;
     private JButton addCourseButton, addRetakeButton, calculateButton, resetButton;
     private JTextField completedCreditsField, currentCGPAField;
