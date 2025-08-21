@@ -20,7 +20,7 @@ The calculator uses UIU’s official grading policy
 | A-    | 3.70        |
 | B+    | 3.33        |
 | B     | 3.00        |
-| B-    | 2.70        |
+| B-    | 2.67        |
 | C+    | 2.33        |
 | C     | 2.00        |
 | D     | 1.00        |
