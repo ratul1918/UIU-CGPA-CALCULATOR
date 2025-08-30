@@ -10,7 +10,7 @@ A simple and user-friendly **CGPA Calculator** built using **Flutter** for stude
 - ✅ Simple and intuitive UI
 
 
-## 🏫 Grading System Used
+## 🏫 Grading System Used 
 
 The calculator uses UIU’s official grading policy
 
